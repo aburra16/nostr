@@ -3,7 +3,7 @@
   "tag":"payRequest",
   "commentAllowed":255,
   "callback":"https://walletofsatoshi.com/lnurlp/weirdparsnip79/callback",
-  "metadata":"[[\"text/identifier\", \"weirdparsnip79@walletofsatoshi.com\"], [\"text/plain\", \"Sats for AviBurra\"]]",
+  "metadata":"[[\"text/identifier\", \"weirdparsnip79@walletofsatoshi.com\"], [\"text/plain\", \"I accept your gift with great joy. Arigato\"]]",
   "minSendable":1000,"maxSendable":11000000000,
   "payerData":
     {
