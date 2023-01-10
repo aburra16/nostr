@@ -1,8 +1,1 @@
-{
-  "callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/",
-  "maxSendable":100000000000,
-  "minSendable":1000,
-  "metadata":"[[\"text/plain\",\"Pay to Wallet of Satoshi user: weirdparsnip79\"],[\"text/identifier\",\"weirdparsnip79@walletofsatoshi.com\"]]",
-  "commentAllowed":32,
-  "tag":"payRequest"
-}
+{"callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/b75565f5-23b8-40de-9b56-b6eef29d880b","maxSendable":100000000000,"minSendable":1000,"metadata":"[[\"text/plain\",\"Pay to Wallet of Satoshi user: weirdparsnip79\"],[\"text/identifier\",\"weirdparsnip79@walletofsatoshi.com\"]]","commentAllowed":32,"tag":"payRequest"}
