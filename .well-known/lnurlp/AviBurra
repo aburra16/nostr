@@ -1,7 +1,8 @@
-
-{"callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/6772edf2-493c-4d82-86f2-f23a4e520056",
-"maxSendable":100000000000,
-"minSendable":1000,
-"metadata":"[[\"text/plain\",\"I accept your gift with great joy. Arigato\"],[\"text/identifier\",\"weirdparsnip79@walletofsatoshi.com\"]]",
-"commentAllowed":32,
-"tag":"payRequest"}
+{
+  "callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/6772edf2-493c-4d82-86f2-f23a4e520056",
+  "maxSendable":100000000000,
+  "minSendable":1000,
+  "metadata":"[[\"text/plain\",\"Pay to Wallet of Satoshi user: weirdparsnip79\"],[\"text/identifier\",\"weirdparsnip79@walletofsatoshi.com\"]]",
+  "commentAllowed":32,
+  "tag":"payRequest"
+}
