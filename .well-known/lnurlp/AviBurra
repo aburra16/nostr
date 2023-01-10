@@ -1,0 +1,13 @@
+{
+  "status":"OK",
+  "tag":"payRequest",
+  "commentAllowed":255,
+  "callback":"https://walletofsatoshi.com/lnurlp/weirdparsnip79/callback",
+  "metadata":"[[\"text/identifier\", \"weirdparsnip79@walletofsatoshi.com\"], [\"text/plain\", \"Sats for AviBurra\"]]",
+  "minSendable":1000,"maxSendable":11000000000,
+  "payerData":
+    {
+      "name":{"mandatory":false},
+      "email":{"mandatory":false}
+    }
+}
