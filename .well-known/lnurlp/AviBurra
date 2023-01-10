@@ -1,5 +1,4 @@
 {
-  "status":"OK",
   "callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/6772edf2-493c-4d82-86f2-f23a4e520056",
   "maxSendable":100000000000,
   "minSendable":1000,
